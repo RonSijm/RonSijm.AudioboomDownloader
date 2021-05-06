@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RonSijm.AudioboomDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "-p duncantrussellfamilyhour -o \"W:\\Podcast Backup\\DTFH\""
+    }
+  }
+}
